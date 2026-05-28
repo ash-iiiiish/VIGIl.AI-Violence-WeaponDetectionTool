@@ -1,5 +1,5 @@
 <div align="center">
-s
+
 # 🔍 VIGIL.AI
 ### Automated Violence & Weapon Detection in CCTV
 
